@@ -1,0 +1,51 @@
+1693939151498	geckodriver	INFO	Listening on 127.0.0.1:51035
+1693939154603	mozrunner::runner	INFO	Running command: "C:/Users/perezduran.11/AppData/Local/Mozilla Firefox/firefox.exe" "--marionette" "-headless" "--remote-debu ... remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PEREZD~1.11\\AppData\\Local\\Temp\\rust_mozprofile7zpLGy"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693939155417	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693939155525	Marionette	INFO	Listening on port 51043
+Read port: 51043
+WebDriver BiDi listening on ws://127.0.0.1:51036
+1693939155597	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51036/devtools/browser/d72c9a53-c54f-4891-adc0-e1576cb5a5f6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.seadc.ccms.teleperformance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.seadc.ccms.teleperformance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.seadc.ccms.teleperformance.com."
+1693939233450	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:180:31
+1694006599737	geckodriver	INFO	Listening on 127.0.0.1:54841
+1694006602775	mozrunner::runner	INFO	Running command: "C:/Users/perezduran.11/AppData/Local/Mozilla Firefox/firefox.exe" "--marionette" "-headless" "--remote-debu ... remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PEREZD~1.11\\AppData\\Local\\Temp\\rust_mozprofile8uhHzn"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694006603560	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694006603715	Marionette	INFO	Listening on port 54850
+WebDriver BiDi listening on ws://127.0.0.1:54842
+Read port: 54850
+1694006603985	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1695477275176	geckodriver	INFO	Listening on 127.0.0.1:51518
+1695477278215	mozrunner::runner	INFO	Running command: "C:\\Users\\perezduran.11\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remot ... remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PEREZD~1.11\\AppData\\Local\\Temp\\rust_mozprofileSFinhU"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695477279082	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695477279207	Marionette	INFO	Listening on port 54792
+Read port: 54792
+WebDriver BiDi listening on ws://127.0.0.1:51519
+1695477279281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51519/devtools/browser/003f1bd9-73c7-463c-a028-9803c11d46f7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.seadc.ccms.teleperformance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.seadc.ccms.teleperformance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.seadc.ccms.teleperformance.com."
